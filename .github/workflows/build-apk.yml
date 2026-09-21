@@ -16,7 +16,6 @@ steps:
         with:
           distribution: temurin
           java-version: "17"
-
 - name: Set up Android
         uses: android-actions/setup-android@v3
 
